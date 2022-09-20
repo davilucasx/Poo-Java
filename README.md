@@ -1,11 +1,11 @@
 # Trabalho de POO com java 
 <img align="center" alt="Java-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-Este repositório foi criado com a finalidade de armazenar as questões de POO com java para um projeto escolar do IFCE.
+Este repositório foi criado com a finalidade de armazenar questões de POO para um projeto escolar do IFCE.
 
 ## Questões
 
-| Question | Description |
+| Questôes | Descrição |
 |---|---|
 |01| Faça um programa que receba quatro números inteiros, calcule e mostre a soma dos números.|
 |02| Faça um programa que receba três notas, calcule e mostre a média aritmética entre elas.|
@@ -19,4 +19,4 @@ Este repositório foi criado com a finalidade de armazenar as questões de POO c
 |22| Sabe-se que o quilowatt de energia custa 1/5 do salário mínimo. Faça um programa que receba o valor do salário mínimo e a quantida de quilowatt consumida em uma residência. Calcule e mostre: A) O valor, em reais, de cada quilowatt; B) O valor, em reais, a ser pago pela residência; C) O valor, em reais, a ser pago com desconto de 15%.|
 |24| Faça um programa que receba uma hora formada por horas e minutos(um número real), calcule e mostre a hora digitada apenas em minutos.|
 |25| Faça um programa que receba o custo de um espetáculo teatral e o preço do convite do espetáculo. Esse programa deve calcular e mostrar a quantidade de convites que devem ser vendidos para que pelo menos o custo do espetáculo seja alcançado.|
-|ímpar| Este programa fornece ao usuário os números primos.|
+
